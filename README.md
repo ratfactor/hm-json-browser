@@ -1,4 +1,10 @@
 # hm-json-browser
+
+
+**MOVED!** Hello, I am moving my repos to http://ratfactor.com/repos/
+and setting them to read-only ("archived") on GitHub. Thank you, _-Dave_
+
+
 A REST hypermedia JSON (hm-json) API browser that runs in your browser!
 
 ![screencap of an api being browsed](screencap.png)
